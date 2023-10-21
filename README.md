@@ -1,4 +1,4 @@
-# Hello, Welcome to my GitHub!
+<h1>Hello, Welcome to my GitHub!</h1>
 
 <p>I'm Link, currently a physics bachelor's student at Universidade Federal de Santa Catarina (UFSC), but thanks to some Information Security Analyst friends, a passion for cyber security and IT has grow inside me, and now here I am. </p>
 
@@ -19,7 +19,7 @@
 
 
 
-### Current occupations 
+<h3>Current occupations</h3> 
   <ul>
     <li> Ethical Hacking student at  <a href="https://zerotomastery.io">ZFM academy</a></li>
     <li> Physics student at <a href="https://ufsc.br"> Universidade Federal de Santa Catarina (UFSC)</a></li>
