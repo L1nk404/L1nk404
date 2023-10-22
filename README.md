@@ -1,6 +1,6 @@
 <h1>Hello, Welcome to my GitHub!</h1>
 
-<p>My name is Gabriel, but you can call me Link, currently a physics bachelor's student at Universidade Federal de Santa Catarina (UFSC), but thanks to some Information Security Analyst friends, a passion for cyber security and IT has grow inside me, and now here I am. </p>
+<p>My name is Gabriel, but you can call me Link, currently a physics student at Universidade Federal de Santa Catarina (UFSC), but thanks to some Information Security Analyst friends, a passion for cyber security and IT has grow inside me, and now here I am. </p>
 
 
 
