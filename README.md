@@ -21,7 +21,7 @@
 
 <h3>Current occupations</h3> 
   <ul>
-    <li> Ethical Hacking student at  <a href="https://zerotomastery.io">ZFM academy</a></li>
+    <li> Ethical Hacking student at  <a href="https://desecsecurity.com">DESEC Security</a></li>
     <li> Bachelor degree in Computer Sciente at  <a href="https://www.unip.br"> Universidade Paulista (UNIP)</a>.</li>
     <li> Searching for cyber security job/freelance.</li>
     </ul>
