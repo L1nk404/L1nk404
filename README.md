@@ -46,8 +46,14 @@
 <!--  STATSSSSS -->
 
 
-![L1nk404's Stats](https://github-readme-stats.vercel.app/api?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![L1nk404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=L1nk404&theme=vue-dark&hide_border=true)  
-![L1nk404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="display: inline-block; width: 49%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nk404&theme=vue-dark&hide_border=true" style="display: inline-block; width: 49%;"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
 
 ###
