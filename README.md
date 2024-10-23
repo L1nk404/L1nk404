@@ -46,14 +46,15 @@
 <!--  STATSSSSS -->
 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 200px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nk404&theme=vue-dark&hide_border=true" style="height: 200px;"/>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 200px; width: auto;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nk404&theme=vue-dark&hide_border=true" style="height: 200px; width: auto;"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+
 
 
 ###
