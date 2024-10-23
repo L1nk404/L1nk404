@@ -52,7 +52,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=html,css"/>
 </div>
 
 
