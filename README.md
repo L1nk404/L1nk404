@@ -48,7 +48,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=L1nk404&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 180px; width: 45%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nk404&theme=vue-dark&hide_border=true" style="height: 180px; width: 45%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nk404&theme=vue-dark&hide_border=true" style="height: 180px; width: 50%;"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
